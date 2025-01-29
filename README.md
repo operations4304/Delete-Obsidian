@@ -1,5 +1,9 @@
 # Delete-Obsidian
 
+知乎文字链接：[用Quicker删除Obsidian的附件与图片](https://zhuanlan.zhihu.com/p/697125669)
+
+哔哩哔哩视频链接：[Obsidian与删除附件](https://www.bilibili.com/video/BV1sx4y1i7q1/?spm_id_from=333.1387.homepage.video_card.click&vd_source=c08c205650a4a5e13d87475ab1ab2431)
+
 ## 用Quicker删除Obsidian的附件与图片
 
 ### 灵感来源
